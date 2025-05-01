@@ -22,3 +22,33 @@ You can toggle the overlay visibility from the extension popup and drag it anywh
 1. Download or clone this repository:
    ```bash
    git clone https://github.com/Zxrupesh/fps-connection-overlay
+
+------------------------------------------------------------------------------------------------
+
+🚀 How to Manually Install the Extension in Chrome
+Download or Clone this Repository
+
+Download ZIP or run:
+
+bash
+Copy
+Edit
+git clone https://github.com/Zxrupesh/fps-connection-overlay
+Open Chrome and Go to Extensions
+
+Visit: chrome://extensions/
+
+Enable Developer Mode
+
+Toggle the switch in the top-right corner to turn on Developer mode.
+
+Click "Load Unpacked"
+
+Select the folder where you have the extension files (this repo's folder).
+
+That's it!
+
+The extension should now be visible in your Chrome toolbar.
+
+You can click the icon to toggle the FPS & Connection overlay on any webpage.
+
